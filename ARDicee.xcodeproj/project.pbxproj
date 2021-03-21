@@ -13,6 +13,7 @@
 		EF188EC825B38ABA008637B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF188EC625B38ABA008637B8 /* Main.storyboard */; };
 		EF188ECA25B38ABC008637B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF188EC925B38ABC008637B8 /* Assets.xcassets */; };
 		EF188ECD25B38ABC008637B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF188ECB25B38ABC008637B8 /* LaunchScreen.storyboard */; };
+		EF5F482E2607F7D100670028 /* ARDiceeDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF5F482D2607F7D000670028 /* ARDiceeDemo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EF188EC925B38ABC008637B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF188ECC25B38ABC008637B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF188ECE25B38ABC008637B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF5F482D2607F7D000670028 /* ARDiceeDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ARDiceeDemo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		EF188EBF25B38ABA008637B8 /* ARDicee */ = {
 			isa = PBXGroup;
 			children = (
+				EF5F482D2607F7D000670028 /* ARDiceeDemo.gif */,
 				EF188EC025B38ABA008637B8 /* AppDelegate.swift */,
 				EF188EC425B38ABA008637B8 /* ViewController.swift */,
 				EF188EC625B38ABA008637B8 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF188EC325B38ABA008637B8 /* art.scnassets in Resources */,
+				EF5F482E2607F7D100670028 /* ARDiceeDemo.gif in Resources */,
 				EF188ECD25B38ABC008637B8 /* LaunchScreen.storyboard in Resources */,
 				EF188ECA25B38ABC008637B8 /* Assets.xcassets in Resources */,
 				EF188EC825B38ABA008637B8 /* Main.storyboard in Resources */,
